@@ -1,0 +1,48 @@
+@mixin wh100 {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+@mixin flex-cl {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin flex-cl-center {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+// 符号
+@mixin symbol {
+  font-weight: bold;
+  font-size: 9px;
+  color: #D2AC60;
+  transform: scale(0.8);
+}
+// 删除线金额
+@mixin money-1 {
+  font-size: 9px;
+  color: #242424;
+  text-decoration: line-through;
+  transform: scale(0.8);
+}
+// 实际金额
+@mixin money-2 {
+  font-size: 12px;
+  color: #D2AC60;
+  font-weight: bold;
+  font-family: DIN;
+}
+
+
+@mixin btn-cl {
+  width: 100%;
+  height: 41px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #242424;
+}

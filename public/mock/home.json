@@ -1,0 +1,85 @@
+{
+  "oftenInfo": [
+    {
+      "id": "oftern01",
+      "img": "../huizi.jpg",
+      "intro": "带窗 早餐",
+      "type": "温馨家庭房",
+      "money1": "339",
+      "money2": "222"
+    },
+    {
+      "id": "oftern02",
+      "img": "../huizi.jpg",
+      "intro": "带窗 早餐",
+      "type": "商务大床",
+      "money1": "339",
+      "money2": "222"
+    },
+    {
+      "id": "oftern03",
+      "img": "../huizi.jpg",
+      "intro": "带窗 早餐",
+      "type": "商务大床",
+      "money1": "339",
+      "money2": "222"
+    }
+  ],
+  "otherInfo": [
+    {
+      "id": "other01",
+      "img": "../huizi.jpg",
+      "title": "精致大床房",
+      "intro": "20-30㎡ 大床1.8米 无早餐 带窗 ",
+      "last": "仅剩3间",
+      "baiyin": "9.8",
+      "new": "7.8",
+      "money1": "339",
+      "money2": "222"
+    },
+    {
+      "id": "other02",
+      "img": "../huizi.jpg",
+      "title": "精致大床房一",
+      "intro": "20-30㎡ 大床1.8米 无早餐 带窗 ",
+      "last": "仅剩3间",
+      "baiyin": "9.8",
+      "new": "7.8",
+      "money1": "339",
+      "money2": "222"
+    },
+    {
+      "id": "other03",
+      "img": "../huizi.jpg",
+      "title": "精致大床房二",
+      "intro": "20-30㎡ 大床1.8米 无早餐 带窗 ",
+      "last": "仅剩3间",
+      "baiyin": "9.8",
+      "new": "7.8",
+      "money1": "339",
+      "money2": "222"
+    },
+    {
+      "id": "other04",
+      "img": "../huizi.jpg",
+      "title": "精致大床房二",
+      "intro": "20-30㎡ 大床1.8米 无早餐 带窗 ",
+      "last": "仅剩3间",
+      "baiyin": "9.8",
+      "new": "7.8",
+      "money1": "339",
+      "money2": "222"
+    },
+    {
+      "id": "other05",
+      "img": "../huizi.jpg",
+      "title": "精致大床房二",
+      "intro": "20-30㎡ 大床1.8米 无早餐 带窗 ",
+      "last": "仅剩3间",
+      "baiyin": "9.8",
+      "new": "7.8",
+      "money1": "339",
+      "money2": "222"
+    }
+  ]
+}
